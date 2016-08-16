@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CloneDto")]
+[assembly: AssemblyTitle("CloneDtoTests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CloneDto")]
+[assembly: AssemblyProduct("CloneDtoTests")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("60f418c1-c6df-40c9-a9bc-d0709193a8eb")]
+[assembly: Guid("8bf2bcdb-6d99-438b-8cd8-8bcbe83119e4")]
 
 // Version information for an assembly consists of the following four values:
 //
