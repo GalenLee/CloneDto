@@ -1,0 +1,16 @@
+C:\_Code\GitHub\HashRelated\HashRelated\bin\Debug\net5.0\HashRelated.exe
+C:\_Code\GitHub\HashRelated\HashRelated\bin\Debug\net5.0\HashRelated.deps.json
+C:\_Code\GitHub\HashRelated\HashRelated\bin\Debug\net5.0\HashRelated.runtimeconfig.json
+C:\_Code\GitHub\HashRelated\HashRelated\bin\Debug\net5.0\HashRelated.runtimeconfig.dev.json
+C:\_Code\GitHub\HashRelated\HashRelated\bin\Debug\net5.0\HashRelated.dll
+C:\_Code\GitHub\HashRelated\HashRelated\bin\Debug\net5.0\ref\HashRelated.dll
+C:\_Code\GitHub\HashRelated\HashRelated\bin\Debug\net5.0\HashRelated.pdb
+C:\_Code\GitHub\HashRelated\HashRelated\obj\Debug\net5.0\HashRelated.csprojAssemblyReference.cache
+C:\_Code\GitHub\HashRelated\HashRelated\obj\Debug\net5.0\HashRelated.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Code\GitHub\HashRelated\HashRelated\obj\Debug\net5.0\HashRelated.AssemblyInfoInputs.cache
+C:\_Code\GitHub\HashRelated\HashRelated\obj\Debug\net5.0\HashRelated.AssemblyInfo.cs
+C:\_Code\GitHub\HashRelated\HashRelated\obj\Debug\net5.0\HashRelated.csproj.CoreCompileInputs.cache
+C:\_Code\GitHub\HashRelated\HashRelated\obj\Debug\net5.0\HashRelated.dll
+C:\_Code\GitHub\HashRelated\HashRelated\obj\Debug\net5.0\ref\HashRelated.dll
+C:\_Code\GitHub\HashRelated\HashRelated\obj\Debug\net5.0\HashRelated.pdb
+C:\_Code\GitHub\HashRelated\HashRelated\obj\Debug\net5.0\HashRelated.genruntimeconfig.cache
